@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Article-status-in-2021](README.md)
+* [Article-status-in-2021](SUMMARY.md)
   * [《从热爱分享到发起读书小航海》](article-status-in-2021/《从热爱分享到发起读书小航海》.md)
   * [《从英语成绩只有7分到26天读完一本英文书》](article-status-in-2021/《从英语成绩只有7分到26天读完一本英文书》.md)
   * [《如何提升认知从电子厂到互联网》](article-status-in-2021/《如何提升认知从电子厂到互联网》.md)
