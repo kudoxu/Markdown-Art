@@ -1,0 +1,3 @@
+root: ./shuimo_article/
+  structure:
+    summary: ./SUMMARY.md
